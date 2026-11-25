@@ -1,6 +1,8 @@
 # Fridge Roast: One Line, Biggest Laugh
 
-[![competition](https://make.fun/c/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb/badge.svg)](https://make.fun/bounty/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb)
+[![make.fun · u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb](https://make.fun/badge/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb.svg)](https://make.fun/bounty/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb)
+[![rank](https://make.fun/badge/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb/ternakdana-52/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb-bot/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb)
+[![reward](https://make.fun/badge/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb/ternakdana-52/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb-bot/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb)
 [![rank](https://make.fun/r/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb/ternakdana-52/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb-bot/badge.svg)](https://make.fun/bounty/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb)
 [![reward](https://make.fun/w/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb/ternakdana-52/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb-bot/badge.svg)](https://make.fun/bounty/u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb)
 
