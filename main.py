@@ -12,8 +12,8 @@ import os
 import sys
 
 LINE = (
-    "My fridge texts me that the milk expired, which is brave for an "
-    "appliance that has been holding it hostage since Tuesday."
+    "My smart fridge judges my midnight snacks, which is rich coming from "
+    "an appliance that has never cooked a single meal in its life."
 )
 
 
